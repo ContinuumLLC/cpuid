@@ -8,6 +8,7 @@
 // You can access the CPU information by accessing the shared CPU variable of the cpuid library.
 //
 // Package home: https://github.com/klauspost/cpuid
+// Test
 package cpuid
 
 import (
